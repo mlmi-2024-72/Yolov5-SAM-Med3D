@@ -245,7 +245,23 @@ Other checkpoints are available with their official link: [SAM](https://drive.go
 
 
 ## 🎫 License
-This project is released under the [Apache 2.0 license](LICENSE). 
+This project includes components from multiple sources, each with its own licensing terms. Please read and comply with the terms of each license.
+
+### AGPL-3.0 License
+Some components of this project are licensed under the AGPL-3.0 License. This license is ideal for non-commercial use, promoting open collaboration and knowledge sharing. If you use these components under the AGPL-3.0 License, you must comply with its terms, including the requirement to disclose your source code. See the [LICENSE-AGPL-3.0](link-to-agpl-license-file) file for more details.
+
+### Ultralytics Enterprise License
+For commercial use of Ultralytics components, please obtain an Enterprise License. This license allows you to integrate Ultralytics software and AI models into commercial products without the open-source obligations of the AGPL-3.0 License. Contact Ultralytics Licensing for more information.
+
+### Apache 2.0 License
+Some components of this project are licensed under the Apache 2.0 License. You are free to use, modify, and distribute these components, provided that you comply with the terms of the Apache 2.0 License. See the [LICENSE-Apache-2.0](link-to-apache-license-file) file for more details.
+
+### Summary of Licenses
+- AGPL-3.0 License: [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
+- Ultralytics Enterprise License: [Ultralytics Licensing](https://ultralytics.com/license)
+- Apache 2.0 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+By using this project, you agree to comply with the terms of the applicable licenses.
 
 
 ## 🙏 Acknowledgement
