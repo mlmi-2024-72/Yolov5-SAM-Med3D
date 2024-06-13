@@ -223,7 +223,7 @@ python union_inference_for_3D_case_use_pred_3Dbox_yolov5_weighted.py
 
 
 ## 🔗 Checkpoint
-**Our most recommended version is SAM-Med3D-turbo**
+**the most recommended version is SAM-Med3D-turbo**
 
 | Model | Google Drive | Baidu NetDisk |
 |----------|----------|----------|
@@ -239,8 +239,8 @@ Other checkpoints are available with their official link: [SAM](https://drive.go
 | **Model**    | **Prompt**   | **Resolution**                 | **Inference Time (s)** | **Overall Dice** |
 |--------------|--------------|--------------------------------|------------------|------------------|
 | nnUnet          | w/o     | 160×160×96                  | --              | 0.127            |
-| Yolov5-SAM-Med3D   | pred_boxes      | 128×128×128                    | --               | 0.163            |
-| Yolov5-SAM-Med3D   | gt_boxes    | 128×128×128                    | --                | 0.335           |
+| Yolov5-SAM-Med3D   | pred_boxes      | 128×128×128                    | --               | 0.152           |
+| Yolov5-SAM-Med3D   | gt_boxes    | 128×128×128                    | --                | 0.323           |
 
 
 
